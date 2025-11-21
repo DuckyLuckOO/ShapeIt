@@ -1,0 +1,20 @@
+.Header {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex:1;
+}
+
+.MainPage {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex:1;
+}
+
+.Footer {
+    display: flex;
+    justify-content:s;
+    align-items: center;
+    flex:1;
+}
